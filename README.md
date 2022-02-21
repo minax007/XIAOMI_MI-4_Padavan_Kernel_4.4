@@ -12,6 +12,6 @@ __________________________________________________________________
 In case you need a different feature set or a build for a different router please feel free to fork this repository and to adjust the CI.yml according to your needs. 
 __________________________________________________________________
 
-Source code: https://github.com/hanwckf/rt-n56u
+Source code: https://github.com/MeIsReallyBa/padavan-4.4
 
 Forked from: https://github.com/hanwckf/scut_padavan_build
